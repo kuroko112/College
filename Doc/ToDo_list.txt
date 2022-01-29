@@ -1,0 +1,48 @@
+                     9:03 Day sut_day  27 - 3 - 2021
+
+
+# TODO 
+---------------------------------------------------------------------------------
+    1 - Delete Students    ( Students  )
+    2 - Delete Assistant   ( Assistant )
+    3 - Do Add doctor page ( Doctor  )
+    4 - Delete Doctor      ( Doctor  ) 
+    5 - Update students - doctor - Assistant ( Without id  ) ( name - address - email - code  )
+------------------------------------------------------------------------------------------------
+    We Delete The Students OR Doctor OR Assistant With code ( doctor - Students - Assistant )  
+-----------------------------------------------------------------------------------------------
+TODO - That Now 
+
+1 - Page Admine -> Profissor Add - Show - update - Delete
+
+2- page Admine -> Update Assistant Add ('_')
+
+3 - page Admine -> Delete - students - Assistant - Profissor (_)
+
+Now  :- 
+Profissor
+Add Profissor -  name - code - phone  - email - password 
+Update Profissor name - code - phone  - email - password
+Delete With Code Doctor OR (name 4) 
+
+We Build The Workers -> professor  ( Show Students -> Hodor how much Day  )
+
+
+
+We stop Here In this Points
+
+IN Assistant page 
+
+TODO list 
+
+1 - Add doctor (name - password - email - address) (_)
+
+2 - System Assistant 
+
+( Presence Student In sectoin - Show students That id_sec  = assistant.id_sec ) (_)
+
+show section Table ( scoreing page's ) LOGOUT (_)
+
+
+
+
